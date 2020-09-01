@@ -1,0 +1,15 @@
+export const TERMS_REQUEST = 'TERMS_REQUEST';
+export const TERMS_SUCCESS = 'TERMS_SUCCESS';
+export const TERMS_FAILED = 'TERMS_FAILED';
+
+export const BRANDS_REQUEST = 'BRANDS_REQUEST';
+export const BRANDS_SUCCESS = 'BRANDS_SUCCESS';
+export const BRANDS_FAILED = 'BRANDS_FAILED';
+
+export const STYLES_REQUEST = 'STYLES_REQUEST';
+export const STYLES_SUCCESS = 'STYLES_SUCCESS';
+export const STYLES_FAILED = 'STYLES_FAILED';
+
+export const LINK_REQUEST = 'LINK_REQUEST';
+export const LINK_SUCCESS = 'LINK_SUCCESS';
+export const LINK_FAILED = 'LINK_FAILED';
