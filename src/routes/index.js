@@ -1,5 +1,4 @@
 import loadable from '@loadable/component';
-import localeRegexp from 'Utils/localeRegexp';
 
 const Main = loadable(() => import(/* webpackChunkName: "page_main" */'Pages/Main'));
 
